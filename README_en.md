@@ -33,6 +33,21 @@ Phone Agent is a mobile intelligent assistant framework built on AutoGLM. It und
 
 `AutoGLM-Phone-9B` is optimized for Chinese mobile applications, while `AutoGLM-Phone-9B-Multilingual` supports English scenarios and is suitable for applications containing English or other language content.
 
+## 📚 Learning Resources
+
+For beginners or those who want to dive deep into the project, we have prepared detailed learning guides (in Chinese):
+
+| Document | Audience | Content |
+|----------|----------|---------|
+| [📖 Learning Guide](docs/LEARNING_GUIDE.md) | LLM beginners + Python basics | Project overview, reading path, architecture diagrams, core concepts |
+| [🐍 Python Basics Supplement](docs/PYTHON_BASICS_SUPPLEMENT.md) | Developers with C background | Python syntax comparison, dataclasses, decorators, type hints, etc. |
+| [📝 Code Reading Guide](docs/CODE_READING_GUIDE.md) | All developers | Line-by-line code annotations, execution flow tracking, case studies |
+
+**Recommended Learning Path**:
+1. Read the [Learning Guide](docs/LEARNING_GUIDE.md) to understand the overall architecture
+2. Refer to [Python Basics Supplement](docs/PYTHON_BASICS_SUPPLEMENT.md) to supplement syntax knowledge
+3. Follow the [Code Reading Guide](docs/CODE_READING_GUIDE.md) for in-depth implementation understanding
+
 ## Environment Setup
 
 ### 1. Python Environment

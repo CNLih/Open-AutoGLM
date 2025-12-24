@@ -43,6 +43,21 @@ ADB 调试能力，可通过 WiFi 或网络连接设备，实现灵活的远程�
 
 其中，`AutoGLM-Phone-9B` 是针对中文手机应用优化的模型，而 `AutoGLM-Phone-9B-Multilingual` 支持英语场景，适用于包含英文等其他语言内容的应用。
 
+## 📚 学习资源
+
+如果你是初学者或想深入了解项目，我们为你准备了详细的学习指南：
+
+| 文档 | 适合人群 | 内容 |
+|------|---------|------|
+| [📖 学习指南](docs/LEARNING_GUIDE.md) | LLM初学者 + Python基础 | 项目概览、阅读路径、架构流程图、核心概念讲解 |
+| [🐍 Python基础补充](docs/PYTHON_BASICS_SUPPLEMENT.md) | C语言背景开发者 | Python语法对比、数据类、装饰器、类型注解等 |
+| [📝 代码阅读指南](docs/CODE_READING_GUIDE.md) | 所有开发者 | 逐行代码注解、执行流程跟踪、实战案例分析 |
+
+**推荐学习路径**：
+1. 先阅读 [学习指南](docs/LEARNING_GUIDE.md) 了解整体架构
+2. 参考 [Python基础补充](docs/PYTHON_BASICS_SUPPLEMENT.md) 补充语法知识
+3. 跟随 [代码阅读指南](docs/CODE_READING_GUIDE.md) 深入理解实现
+
 ## Android 环境准备
 
 ### 1. Python 环境
